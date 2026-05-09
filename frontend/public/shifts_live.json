@@ -1,0 +1,37 @@
+[
+  {
+    "time":"19:51:38",
+    "company":"Tesla",
+    "price":427.2799987793,
+    "change":-0.0002222901,
+    "shift":"\u2796 Stable"
+  },
+  {
+    "time":"19:51:39",
+    "company":"Apple",
+    "price":293.3500061035,
+    "change":-0.0001022523,
+    "shift":"\u2796 Stable"
+  },
+  {
+    "time":"19:51:40",
+    "company":"Google",
+    "price":399.450012207,
+    "change":0.0004258,
+    "shift":"\u2796 Stable"
+  },
+  {
+    "time":"19:51:40",
+    "company":"Amazon",
+    "price":272.8399963379,
+    "change":0.0006051473,
+    "shift":"\u2796 Stable"
+  },
+  {
+    "time":"19:51:41",
+    "company":"Microsoft",
+    "price":416.7099914551,
+    "change":-0.0005037464,
+    "shift":"\u2796 Stable"
+  }
+]
