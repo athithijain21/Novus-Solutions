@@ -1,5 +1,8 @@
-streamlit
-requests
-pandas
-plotly
-vaderSentiment
+# Sentiment Shift Detection - Sentiment Scoring Module
+# Install with: pip install -r requirements.txt
+
+streamlit>=1.25.0
+requests>=2.31.0
+plotly>=5.14.1
+vaderSentiment>=3.3.2
+pandas>=2.0.0
